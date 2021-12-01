@@ -1,0 +1,44 @@
+body{
+    font-size: 15px ;
+}
+.principal{
+    display: block;
+    width: 90%;
+    font-size: 1em;
+    font-family: Courier;    
+    border: navy solid 1em;
+}
+.contenedor{
+    display: inline-block;
+    width: 40%;
+    font-size: 100%;
+    font-family: Impact;
+    border: orchid solid 1em;
+}
+.contenedor2{
+    display: inline-block;
+    width: 40%;
+    height: 500px;
+    font-size: 1em;
+    font-family: Verdana;
+    border: black solid 1em;
+}
+
+.principalA{
+    font-size: 5vh;
+}
+.contenedorA{
+    font-size: 5vh;
+}
+.contenedormin{
+    font-size: 5vmin;
+}
+.contenedormax{
+    font-size: 1vmax;
+}
+.contenedorP{
+    font-size: 10px;
+}
+.contenedorPt{
+    font-size: 10pt;
+}

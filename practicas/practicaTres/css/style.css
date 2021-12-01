@@ -1,0 +1,68 @@
+.body{
+    
+        font-size: 15px ;
+       background: red;
+    
+}
+.banner {
+    color :green;
+    display: block;
+    width: 95%;
+    font-family: 'Courier New', Courier, monospace;
+    border:#cecece solid 1px;
+    text-align: center;
+    height:  150pt;
+   background-image: url(/img/animales.jpeg);
+   background-size: contain;
+   
+}
+
+
+.aside{
+    
+    display: inline-block;
+    width: 30%;
+    float: left;
+    font-size: 1.5rem;
+ 
+}
+
+.seccionInformacionAnimalesExtintos{
+    display: inline-block;
+    
+    width: 30%;
+  
+   
+}
+.introduccion{
+   
+    
+}
+.explicacion{
+    font-size: 2.5rem;
+    
+}
+.seccion-conclusion{
+    margin-right: 80px;
+    float:right;
+    width: 30%;
+    display: inline-block;
+  
+ 
+}
+
+.s-conclusion{ 
+    
+    height: 100%;
+    height: 500px;
+}
+
+.s-datosPersonales{
+    
+  
+}
+.content{
+    width: 95%;
+    background-color: bisque;
+   
+}
